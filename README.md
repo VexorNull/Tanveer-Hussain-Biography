@@ -1,7 +1,7 @@
 # 🌐 Tanveer Hussain - Official Biography & Profile
 
 Official biographical profile and web portfolio of **Tanveer Hussain**, a Pakistani finance professional, front-end web developer, and tech enthusiast based in Karachi, Pakistan.
-
+<img src="https://tanveer-hussain-biography.vercel.app/about/thumbnail.jpg" alt="Thumbnail Preview" width="100%" style="pointer-events: none; cursor: default;" />
 [![Live Website](https://img.shields.io/badge/Website-Live%20Preview-38bdf8?style=for-the-badge&logo=github&logoColor=white)](https://vexornull.github.io/Tanveer-Hussain-Biography/about/)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-VexorNull-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VexorNull)
 
