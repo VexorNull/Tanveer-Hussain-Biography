@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+    <!-- Main Home Page -->
+    <url>
+        <loc>https://vexornull.github.io/Tanveer-Hussain-Biography/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- About Page -->
+    <url>
+        <loc>https://vexornull.github.io/Tanveer-Hussain-Biography/about/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Social Pages -->
+    <url>
+        <loc>https://vexornull.github.io/Tanveer-Hussain-Biography/social/facebook/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://vexornull.github.io/Tanveer-Hussain-Biography/social/instagram/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://vexornull.github.io/Tanveer-Hussain-Biography/social/linkedin/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://vexornull.github.io/Tanveer-Hussain-Biography/social/twitter/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+</urlset>
